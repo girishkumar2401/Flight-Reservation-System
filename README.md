@@ -1,4 +1,3 @@
-Here is a `README.md` file for the airline flight reservation system in Java:
 
 ---
 
